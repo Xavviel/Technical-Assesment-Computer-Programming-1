@@ -12,7 +12,7 @@ Krone			:	5.449007
 Sheqel			:	3.726334
 Dinar			:	0.274588
 
-
+The currency exchange value is based on October 11, 2026
 *******************************************************************************/
 #include <iostream>
 #include <iomanip>
