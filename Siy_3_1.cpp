@@ -33,13 +33,13 @@ int main()
     
     //output
     cout << "\n=====Weeky Class Schedule=====\n" <<endl;
-    cout << "Day\t\tTime\t\tCourse Code\tSection\t\tRoom" <<endl;
+    cout << "Day\t\tTime\t\tCourse Code\t\tSection\t\tRoom" <<endl;
     
-    cout << day <<"\t" 
+    cout << day <<"\t\t" 
      << time <<"\t"
-     << courseCode <<"\t" 
-     << section <<"\t" 
-     << room <<"\t" <<endl;
+     << courseCode <<"\t\t" 
+     << section <<"\t\t" 
+     << room <<"\t\t" <<endl;
 
     return 0;
 }
