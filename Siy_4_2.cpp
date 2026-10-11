@@ -74,20 +74,16 @@ int main()
     
     cout << "Employee ID: " << employeeId
          << "\t\tPayroll Period: " << payRoll_period <<endl;
-         
     cout << "Employee Name: " << employeeName <<endl;
     
     cout << "\nINCOME\t\t\t\tDEDUCTIONS\n";
-    
+
     cout << "Monthly Salary: ₱" << monthlySalary
          << "\tLates and Absences:  ("<< lateDeduction <<")\n";
-    
     cout << "\t\t\t\tPhilhealth:  ("<< philhealth <<")\n";
     cout << "\t\t\t\tPagibig:  ("<< pag_Ibig <<")\n";
     cout << "\t\t\t\tSSS:  ("<< SSS <<")\n";
     cout << "\t\t\t\tWitholding Tax:  ("<< Tax <<")\n";
-    
-    
     
     cout << "\nTotal Earnings: ₱" << totalEarnings <<endl;
     cout << "Total Deductions: ₱" << totalDeduction <<endl;
